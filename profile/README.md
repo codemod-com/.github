@@ -1,14 +1,23 @@
-## Hi there 👋
+## Hey there. Welcome! 👋
 
 🙋‍♀️ Intuita
-  - We are a team of scientists, engineers, designers, product managers who are passionate about building tools developers love. Our mission is to build the world's best code evolution engine for big software teams to help them do their large migrations / upgrade / refactoring faster & easier.
+  - We are an early-stage startup passionate about building tools developers love and are fortunate to be backed by the best angels in the devtool industry. We are on a mission to build the world's best code evolution platform to make it easy & fast for developers to update dependencies, make large-scale refactors, and handle big migrations.
 
 👩‍💻 Useful resources 
   - Download our extension in [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Intuita.intuita-vscode-extension).
+  - Learn more at Intuita's [documentation](https://docs.intuita.io/).
 
 ❤ Our team
   - Alex, Greg, Maryam, Mohsen
+  - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with.
 
-🧙 We would love to chat with you ([Email](mailto:hello@intuita.io), [LinkedIn](https://www.linkedin.com/company/intuita-inc/), [Twitter](https://twitter.com/CodeWithIntuita), [Calendly](https://calendly.com/alex-from-intuita), [Slack](https://join.slack.com/t/intuita-inc/shared_invite/zt-1bjj5exxi-95yPfWi71HcO2p_sS5L2wA))
-  - Developers & early adopters, to hear out your biggest day to day problems.
-  - Investors, who back seed stage devtools startups with ambitious goals.
+🧙 We would love to chat with you
+  - Programmig language experts, devtool enthusiasts, codemod nerds, let's partner up! We are growing our team & have lots of collaboration opportunities to discuss (from part-time gigs to founding engineer positions).
+  - Popular framework builders, let us help you be more aggressive with shipping new features & worry less about bringing along your consumers. 
+  - Devtool investors, be part of our story! We are here to accelerate innovation & radiate goodness in the world together.
+  - What is your favorite method of communication?
+      - [Email](mailto:hello@intuita.io) 
+      - [LinkedIn](https://www.linkedin.com/company/intuita-inc/)
+      - [Twitter](https://twitter.com/CodeWithIntuita)
+      - [Calendly](https://calendly.com/alex-from-intuita)
+      - [Slack](https://join.slack.com/t/intuita-inc/shared_invite/zt-1bjj5exxi-95yPfWi71HcO2p_sS5L2wA)
