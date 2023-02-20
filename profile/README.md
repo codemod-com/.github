@@ -10,7 +10,7 @@
 
 ❤ Our team
   - Alex, Dmytro, Greg, Henok, Mohab, Maryam
-  - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with. For more info, please visit our [career page](https://intuita.notion.site/Join-Intuita-b9c9bf82d38341f8936744b6aac20dba).
+  - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with. For more info, please visit our [career page](https://go.intuita.io/join-us).
 
 🧙 We would love to chat with you
   - Programmig language experts, devtool enthusiasts, codemod nerds, let's partner up! We are growing our team & have lots of collaboration opportunities to discuss (from part-time gigs to founding engineer positions).
