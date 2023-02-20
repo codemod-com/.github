@@ -4,12 +4,13 @@
   - We are an early-stage startup passionate about building tools developers love and are fortunate to be backed by the best angels in the devtool industry. We are on a mission to build the world's best code evolution platform to make it easy & fast for developers to update dependencies, make large-scale refactors, and handle big migrations.
 
 👩‍💻 Useful resources 
-  - Download our extension in [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Intuita.intuita-vscode-extension).
+  - Build code transformation bots (aka codemods) 10-100x faster with our [codemod.studio](https://www.codemod.studio/)
+  - Download our IDE extension in [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Intuita.intuita-vscode-extension) & upgrade the [supported frameworks](https://github.com/intuita-inc/codemod-registry) with 1 click.
   - Learn more at Intuita's [documentation](https://docs.intuita.io/).
 
 ❤ Our team
   - Alex, Dmytro, Greg, Henok, Mohab, Maryam
-  - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with.
+  - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with. For more info, please visit our [career page](https://intuita.notion.site/Join-Intuita-b9c9bf82d38341f8936744b6aac20dba).
 
 🧙 We would love to chat with you
   - Programmig language experts, devtool enthusiasts, codemod nerds, let's partner up! We are growing our team & have lots of collaboration opportunities to discuss (from part-time gigs to founding engineer positions).
