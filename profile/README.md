@@ -1,10 +1,10 @@
 ## Hey there. Welcome! 👋
 
 🙋‍♀️ Intuita
-  - We are an early-stage startup passionate about building tools developers love and are fortunate to be backed by the best angels in the devtool industry. We are on a mission to build the world's best code evolution platform to make it easy & fast for developers to update dependencies, make large-scale refactors, and handle big migrations.
+  - We are an early-stage startup passionate about building tools developers love and are fortunate to be backed by the best angels in the devtool industry. We are on a mission to build the world's best code evolution platform to make it easy & fast for developers to update dependencies, make large-scale refactors, and handle big migrations. For more info, please visit our [1-pager](https://go.intuita.io/1-pager).
 
 👩‍💻 Useful resources 
-  - Build code transformation bots (aka codemods) 10-100x faster with our [codemod.studio](https://www.codemod.studio/)
+  - Build code transformation bots (aka codemods) 10-100x faster with our [codemod.studio](https://www.codemod.studio/).
   - Download our IDE extension in [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Intuita.intuita-vscode-extension) & upgrade the [supported frameworks](https://github.com/intuita-inc/codemod-registry) with 1 click.
   - Learn more at Intuita's [documentation](https://docs.intuita.io/).
 
