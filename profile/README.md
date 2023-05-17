@@ -9,7 +9,7 @@
   - Learn more at Intuita's [documentation](https://docs.intuita.io/).
 
 ❤ Our team
-  - Alex, Dmytro, Greg, Henok, Mohab, Maryam
+  - Alex, Benny, Dmytro, Greg, Mohab, Maryam
   - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with. For more info, please visit our [career page](https://go.intuita.io/join-us).
 
 🧙 We would love to chat with you
