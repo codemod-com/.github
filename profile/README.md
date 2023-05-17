@@ -17,8 +17,8 @@
   - Popular framework builders, let us help you be more aggressive with shipping new features & worry less about bringing along your consumers. 
   - Devtool investors, be part of our story! We are here to accelerate innovation & radiate goodness in the world together.
   - What is your favorite method of communication?
-      - [Email](mailto:hello@intuita.io) 
-      - [LinkedIn](https://www.linkedin.com/company/intuita-inc/)
-      - [Twitter](https://twitter.com/CodeWithIntuita)
-      - [Calendly](https://calendly.com/alex-from-intuita)
       - [Slack](https://join.slack.com/t/intuita-inc/shared_invite/zt-1bjj5exxi-95yPfWi71HcO2p_sS5L2wA)
+      - [Calendly](https://calendly.com/alex-from-intuita)
+      - [Twitter](https://twitter.com/CodeWithIntuita)
+      - [LinkedIn](https://www.linkedin.com/company/intuita-inc/)
+      - [Email](mailto:hello@intuita.io) 
