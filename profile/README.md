@@ -10,10 +10,10 @@
 
 ❤ Our team
   - Alex, Benny, Dmytro, Greg, Mohab, Maryam
-  - And you? we are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with. For more info, please visit our [career page](https://go.intuita.io/join-us).
+  - And you? We are growing & looking for solid engineers who are energetic, problem-solver & delightful to work with. For more info, please visit our [career page](https://go.intuita.io/join-us).
 
 🧙 We would love to chat with you
-  - Programmig language experts, devtool enthusiasts, codemod nerds, let's partner up! We are growing our team & have lots of collaboration opportunities to discuss (from part-time gigs to founding engineer positions).
+  - Programming language experts, devtool enthusiasts, codemod nerds, let's partner up! We are growing our team & have lots of collaboration opportunities to discuss (from part-time gigs to founding engineer positions).
   - Popular framework builders, let us help you be more aggressive with shipping new features & worry less about bringing along your consumers. 
   - Devtool investors, be part of our story! We are here to accelerate innovation & radiate goodness in the world together.
   - What is your favorite method of communication?
