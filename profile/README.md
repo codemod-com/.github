@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codemod.com">
-   <img src="https://raw.githubusercontent.com/codemod-com/docs/main/static/img/github/codemod-billboard.png" alt="Logo">
+   <img src="https://raw.githubusercontent.com/codemod-com/codemod/main/apps/docs/images/misc/codemod-billboard.png" alt="Logo">
   </a>
 
   
